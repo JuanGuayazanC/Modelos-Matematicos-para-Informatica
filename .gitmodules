@@ -1,0 +1,24 @@
+[submodule "Talleres/Taller-PreParcial-Suma-Recursiva-MMI"]
+	path = Talleres/Taller-PreParcial-Suma-Recursiva-MMI
+	url = https://github.com/JuanGuayazanC/Taller-PreParcial-Suma-Recursiva-MMI.git
+	branch = main
+[submodule "Talleres/Taller-Manipulacion-de-Digitos-Haskell-MMI"]
+	path = Talleres/Taller-Manipulacion-de-Digitos-Haskell-MMI
+	url = https://github.com/JuanGuayazanC/Taller-Manipulacion-de-Digitos-Haskell-MMI.git
+	branch = main
+[submodule "Recursos/Sistema-Formal-a-b-M-MMI"]
+	path = Recursos/Sistema-Formal-a-b-M-MMI
+	url = https://github.com/JuanGuayazanC/Sistema-Formal-a-b-M-MMI.git
+	branch = main
+[submodule "Recursos/Sistema-Formal-I-M-MMI"]
+	path = Recursos/Sistema-Formal-I-M-MMI
+	url = https://github.com/JuanGuayazanC/Sistema-Formal-I-M-MMI.git
+	branch = main
+[submodule "Recursos/Sistema-Formal-IMIII-MMI"]
+	path = Recursos/Sistema-Formal-IMIII-MMI
+	url = https://github.com/JuanGuayazanC/Sistema-Formal-IMIII-MMI.git
+	branch = main
+[submodule "Recursos/Sistema-Formal-Sapos-y-Ranas-MMI"]
+	path = Recursos/Sistema-Formal-Sapos-y-Ranas-MMI
+	url = https://github.com/JuanGuayazanC/Sistema-Formal-Sapos-y-Ranas-MMI.git
+	branch = main
