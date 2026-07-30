@@ -9,8 +9,8 @@ Cada submódulo es un repositorio independiente con su propio historial de commi
 ```
 Modelos-Matem-ticos-para-Inform-tica/
 ├── Talleres/
-│   ├── Taller-PreParcial-Suma-Recursiva-MMI/
-│   └── Taller-Manipulacion-de-Digitos-Haskell-MMI/
+│   ├── Suma-Recursiva-Haskell-MMI/
+│   └── Manipulacion-de-Digitos-en-Haskell-MMI/
 └── Recursos/
     ├── Sistema-Formal-a-b-M-MMI/
     ├── Sistema-Formal-I-M-MMI/

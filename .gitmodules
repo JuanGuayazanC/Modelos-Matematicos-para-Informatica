@@ -1,11 +1,3 @@
-[submodule "Talleres/Taller-PreParcial-Suma-Recursiva-MMI"]
-	path = Talleres/Taller-PreParcial-Suma-Recursiva-MMI
-	url = https://github.com/JuanGuayazanC/Taller-PreParcial-Suma-Recursiva-MMI.git
-	branch = main
-[submodule "Talleres/Taller-Manipulacion-de-Digitos-Haskell-MMI"]
-	path = Talleres/Taller-Manipulacion-de-Digitos-Haskell-MMI
-	url = https://github.com/JuanGuayazanC/Taller-Manipulacion-de-Digitos-Haskell-MMI.git
-	branch = main
 [submodule "Recursos/Sistema-Formal-a-b-M-MMI"]
 	path = Recursos/Sistema-Formal-a-b-M-MMI
 	url = https://github.com/JuanGuayazanC/Sistema-Formal-a-b-M-MMI.git
@@ -21,4 +13,12 @@
 [submodule "Recursos/Sistema-Formal-Sapos-y-Ranas-MMI"]
 	path = Recursos/Sistema-Formal-Sapos-y-Ranas-MMI
 	url = https://github.com/JuanGuayazanC/Sistema-Formal-Sapos-y-Ranas-MMI.git
+	branch = main
+[submodule "Talleres/Suma-Recursiva-Haskell-MMI"]
+	path = Talleres/Suma-Recursiva-Haskell-MMI
+	url = https://github.com/JuanGuayazanC/Suma-Recursiva-Haskell-MMI.git
+	branch = main
+[submodule "Talleres/Manipulacion-de-Digitos-en-Haskell-MMI"]
+	path = Talleres/Manipulacion-de-Digitos-en-Haskell-MMI
+	url = https://github.com/JuanGuayazanC/Manipulacion-de-Digitos-en-Haskell-MMI.git
 	branch = main
