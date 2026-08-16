@@ -1,24 +1,24 @@
-[submodule "Recursos/Sistema-Formal-a-b-M-MMI"]
-	path = Recursos/Sistema-Formal-a-b-M-MMI
-	url = https://github.com/JuanGuayazanC/Sistema-Formal-a-b-M-MMI.git
+[submodule "Recursos/Sistema-Formal-a-b-M-MMIN"]
+	path = Recursos/Sistema-Formal-a-b-M-MMIN
+	url = https://github.com/JuanGuayazanC/Sistema-Formal-a-b-M-MMIN.git
 	branch = main
-[submodule "Recursos/Sistema-Formal-I-M-MMI"]
-	path = Recursos/Sistema-Formal-I-M-MMI
-	url = https://github.com/JuanGuayazanC/Sistema-Formal-I-M-MMI.git
+[submodule "Recursos/Sistema-Formal-I-M-MMIN"]
+	path = Recursos/Sistema-Formal-I-M-MMIN
+	url = https://github.com/JuanGuayazanC/Sistema-Formal-I-M-MMIN.git
 	branch = main
-[submodule "Recursos/Sistema-Formal-IMIII-MMI"]
-	path = Recursos/Sistema-Formal-IMIII-MMI
-	url = https://github.com/JuanGuayazanC/Sistema-Formal-IMIII-MMI.git
+[submodule "Recursos/Sistema-Formal-IMIII-MMIN"]
+	path = Recursos/Sistema-Formal-IMIII-MMIN
+	url = https://github.com/JuanGuayazanC/Sistema-Formal-IMIII-MMIN.git
 	branch = main
-[submodule "Recursos/Sistema-Formal-Sapos-y-Ranas-MMI"]
-	path = Recursos/Sistema-Formal-Sapos-y-Ranas-MMI
-	url = https://github.com/JuanGuayazanC/Sistema-Formal-Sapos-y-Ranas-MMI.git
+[submodule "Recursos/Sistema-Formal-Sapos-y-Ranas-MMIN"]
+	path = Recursos/Sistema-Formal-Sapos-y-Ranas-MMIN
+	url = https://github.com/JuanGuayazanC/Sistema-Formal-Sapos-y-Ranas-MMIN.git
 	branch = main
-[submodule "Talleres/Suma-Recursiva-Haskell-MMI"]
-	path = Talleres/Suma-Recursiva-Haskell-MMI
-	url = https://github.com/JuanGuayazanC/Suma-Recursiva-Haskell-MMI.git
+[submodule "Talleres/Suma-Recursiva-Haskell-MMIN"]
+	path = Talleres/Suma-Recursiva-Haskell-MMIN
+	url = https://github.com/JuanGuayazanC/Suma-Recursiva-Haskell-MMIN.git
 	branch = main
-[submodule "Talleres/Manipulacion-de-Digitos-en-Haskell-MMI"]
-	path = Talleres/Manipulacion-de-Digitos-en-Haskell-MMI
-	url = https://github.com/JuanGuayazanC/Manipulacion-de-Digitos-en-Haskell-MMI.git
+[submodule "Talleres/Manipulacion-de-Digitos-en-Haskell-MMIN"]
+	path = Talleres/Manipulacion-de-Digitos-en-Haskell-MMIN
+	url = https://github.com/JuanGuayazanC/Manipulacion-de-Digitos-en-Haskell-MMIN.git
 	branch = main
