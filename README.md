@@ -7,15 +7,15 @@ Cada submódulo es un repositorio independiente con su propio historial de commi
 ## Estructura del proyecto
 
 ```
-Modelos-Matem-ticos-para-Inform-tica/
+Modelos-Matematicos-para-Informatica/
 ├── Talleres/
-│   ├── Suma-Recursiva-Haskell-MMI/
-│   └── Manipulacion-de-Digitos-en-Haskell-MMI/
+│   ├── Suma-Recursiva-Haskell-MMIN/
+│   └── Manipulacion-de-Digitos-en-Haskell-MMIN/
 └── Recursos/
-    ├── Sistema-Formal-a-b-M-MMI/
-    ├── Sistema-Formal-I-M-MMI/
-    ├── Sistema-Formal-IMIII-MMI/
-    └── Sistema-Formal-Sapos-y-Ranas-MMI/
+    ├── Sistema-Formal-a-b-M-MMIN/
+    ├── Sistema-Formal-I-M-MMIN/
+    ├── Sistema-Formal-IMIII-MMIN/
+    └── Sistema-Formal-Sapos-y-Ranas-MMIN/
 ```
 
 ## Temas del curso
