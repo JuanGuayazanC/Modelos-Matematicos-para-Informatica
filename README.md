@@ -38,7 +38,7 @@ El curso recorre los fundamentos matemáticos discretos aplicados a la informát
 ## Cómo clonar
 
 ```bash
-git clone --recurse-submodules https://github.com/JuanGuayazanC/Modelos-Matem-ticos-para-Inform-tica.git
+git clone --recurse-submodules https://github.com/JuanGuayazanC/Modelos-Matematicos-para-Informatica.git
 ```
 
 Si ya clonaste el repositorio sin submódulos:
