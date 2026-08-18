@@ -1,8 +1,8 @@
 # Modelos Matemáticos para Informática (MMIN)
 
-Repositorio general del curso Modelos Matemáticos para Informática (ISIS MMIN), que agrupa —mediante submódulos de git— los talleres y recursos del curso.
+Repositorio general del curso Modelos Matemáticos para Informática, que agrupa —mediante submódulos de git— los talleres y recursos del curso.
 
-Cada submódulo es un repositorio independiente con su propio historial de commits y README. Para clonar este repositorio junto con todo su contenido, ver [Cómo clonar](#cómo-clonar).
+Cada submódulo es un repositorio independiente con su propio historial de commits y README. Para saber cómo aprovechar este repositorio, ver [Cómo usar este repositorio](#cómo-usar-este-repositorio).
 
 ## Estructura del proyecto
 
@@ -35,7 +35,12 @@ El curso recorre los fundamentos matemáticos discretos aplicados a la informát
 - Haskell (GHC/runghc)
 - SISFOR (simulador de sistemas formales/producción, DOS)
 
-## Cómo clonar
+## Cómo usar este repositorio
+
+Este repositorio no contiene código directamente: es una colección de repositorios independientes (talleres y recursos), organizados por carpetas. Cada carpeta es un submódulo de git que apunta al repositorio real de esa actividad.
+
+- **Para consultar una actividad puntual**: entra directamente a su carpeta en GitHub (o navega el submódulo) y revisa su propio README.
+- **Para tener todo el contenido en tu máquina**:
 
 ```bash
 git clone --recurse-submodules https://github.com/JuanGuayazanC/Modelos-Matematicos-para-Informatica.git
