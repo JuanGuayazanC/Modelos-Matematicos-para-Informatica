@@ -35,6 +35,10 @@ El curso recorre los fundamentos matemáticos discretos aplicados a la informát
 - Haskell (GHC/runghc)
 - SISFOR (simulador de sistemas formales/producción, DOS)
 
+## Profesor
+
+Wilmer Edicson Garzón Alfonso.
+
 ## Cómo usar este repositorio
 
 Este repositorio no contiene código directamente: es una colección de repositorios independientes (talleres y recursos), organizados por carpetas. Cada carpeta es un submódulo de git que apunta al repositorio real de esa actividad.
